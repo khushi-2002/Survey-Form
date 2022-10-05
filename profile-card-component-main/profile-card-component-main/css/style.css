@@ -1,0 +1,102 @@
+body{
+background-color:  hsl(185, 75%, 39%);
+
+}
+
+.bg-pattern-bottom{
+  position: absolute;
+  top: 60%;
+  right: 0;
+}
+
+.bg-pattern-top{
+  position: absolute;
+  top: 0;
+  left: 0;
+
+}
+.bg-pattern-card{
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  width: 100%;
+}
+
+.content{
+  position: absolute;
+  margin: auto;
+  top: 0;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  background-color: white;
+  width: 350px;
+  height: 400px;
+  border-radius: 20px;
+
+}
+
+.image-victor{
+  position: absolute;
+  border-radius: 100%;
+  padding: 5px;
+  top: 21%;
+  left: 35%;
+  right: 0;
+  bottom: 0;
+  background-color: white;
+}
+
+.name{
+  font-weight: 700;
+  font-family: 'Kumbh Sans', sans-serif;
+  font-size: 18px;
+  color: hsl(229, 23%, 23%);
+  text-align: center;
+  padding-top: 50px;
+  font-weight: 900;
+}
+
+span{
+  color: hsl(0, 0%, 59%);
+}
+
+.place{
+  font-family: 'Kumbh Sans', sans-serif;
+  color: hsl(0, 0%, 59%);
+  text-align: center;
+  padding-bottom: 10px;
+}
+
+hr{
+  border-color: hsl(0, 0%, 59%, 0.1);
+}
+
+.row{
+margin: 10px;
+text-align: center;
+}
+
+.col-1,.col-2,.col-3{
+
+float: left;
+
+width: 33%;
+
+font-family: 'Kumbh Sans', sans-serif;
+}
+
+.col-heading{
+  font-weight: 700;
+  color: hsl(229, 23%, 23%);
+  font-size: 18px;
+  padding: 0;
+  padding-top: 20px;
+  margin: 0;
+}
+.col-detail{
+  font-weight: 400;
+  font-size: 12px;
+  padding-top: 10px;
+  color: hsl(0, 0%, 59%);
+  margin: 0;
+}

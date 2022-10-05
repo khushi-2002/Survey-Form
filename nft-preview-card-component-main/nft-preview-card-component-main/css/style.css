@@ -1,0 +1,72 @@
+body{
+  background-color: hsl(217, 54%, 11%);
+}
+
+main{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.flex-items{
+ width: 20%;
+ background-color: hsl(216, 50%, 16%);
+ padding: 20px;
+ border-radius: 15px;
+ color: hsl(215, 51%, 70%);
+ font-family:'Outfit', sans-serif;
+
+}
+
+.equilibrium{
+  width: 100%;
+  border-radius: 10px;
+}
+
+.equili{
+  color: white;
+  font-size: 18px;
+  font-weight: 500;
+}
+
+
+
+
+.flex{
+ display: flex;
+ justify-content: space-between;
+ margin-bottom: 20px;
+}
+
+
+.desc1, .desc2{
+  padding-left: 4px;
+}
+.desc1{
+  color: hsl(178, 100%, 50%);
+}
+
+hr{
+  border-color: hsl(0, 0%, 59%, 0.2);
+}
+
+.container{
+  margin-top: 20px;
+  display: flex;
+}
+.avatar{
+  width: 10%;
+  border: 1px solid white;
+  border-radius: 100%;
+}
+
+
+.creation{
+  align-self: center;
+  padding-left: 10px;
+}
+
+.creat{
+  color: white;
+}
