@@ -12,4 +12,4 @@ Project preview:
 
 [3-column-preview-card-component-main](https://khushi-2002.github.io/Web-development-Practice/3-column-preview-card-component-main)
 
-[Work Order](https://khushi-2002.github.io/Web-development-Practice/work_order)
+[Work Order](https://khushi-2002.github.io/Web-development-Practice/work_order/)
