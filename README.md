@@ -6,3 +6,8 @@ Technologies:
 * HTML5
 * CSS
 * JS
+
+
+Project preview:
+
+[3-column-preview-card-component-main](https://khushi-2002.github.io/Web-development-Practice/3-column-preview-card-component-main)
