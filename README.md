@@ -10,6 +10,12 @@ Technologies:
 
 Project preview:
 
-[3-column-preview-card-component-main](https://khushi-2002.github.io/Web-development-Practice/3-column-preview-card-component-main)
+1. [3 column Preview Card](https://khushi-2002.github.io/Web-development-Practice/3-column-preview-card-component-main)
 
-[Work Order](https://khushi-2002.github.io/Web-development-Practice/work_order/)
+2. [Work Order](https://khushi-2002.github.io/Web-development-Practice/work_order/)
+
+3. [Payment Form](https://khushi-2002.github.io/Web-development-Practice/payment_form/)
+
+4. [Preview Card](https://khushi-2002.github.io/Web-development-Practice/nft-preview-card-component-main/)
+
+5. [Order Summary Component](https://khushi-2002.github.io/Web-development-Practice/order-summary-component-main/)
