@@ -7,10 +7,9 @@ Technologies:
 * CSS
 * JS
 
-
 Project preview:
 
-1. [3 column Preview Card](https://khushi-2002.github.io/Web-development-Practice/3-column-preview-card-component-main)
+1. [3 column Preview Card](https://khushi-2002.github.io/Web-development-Practice/3-column-preview-card-component-main/)
 
 2. [Work Order](https://khushi-2002.github.io/Web-development-Practice/work_order/)
 
