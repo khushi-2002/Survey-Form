@@ -18,3 +18,7 @@ Project preview:
 4. [Preview Card](https://khushi-2002.github.io/Web-development-Practice/nft-preview-card-component-main/)
 
 5. [Order Summary Component](https://khushi-2002.github.io/Web-development-Practice/order-summary-component-main/)
+
+6. [Survey Form](https://khushi-2002.github.io/Web-development-Practice/freecodecamp_Survey_Form/)
+
+7. [Profile-card-component](https://khushi-2002.github.io/Web-development-Practice/profile-card-component-main/)
