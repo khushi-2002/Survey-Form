@@ -23,4 +23,4 @@ Project preview:
 
 7. [Profile-card-component](https://khushi-2002.github.io/Web-development-Practice/profile-card-component-main/)
 
-8. [Login-Signup page](https://khushi-2002.github.io/Web-development-Login/)
+8. [Login-Signup page](https://khushi-2002.github.io/Web-development-Practice/Login/)
