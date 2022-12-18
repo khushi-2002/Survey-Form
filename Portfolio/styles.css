@@ -102,7 +102,7 @@ nav ul li a:hover::after{
 }
 
 .about-col-2{
-    flex-basis: 60%;
+    flex-basis: 50%;
     color: black;
 }
 
@@ -437,6 +437,7 @@ nav .fas{
 
     .about-col-1, .about-col-2{
         flex-basis: 100%;
+        overflow: hidden;
     }
 
     .about-col-2 h1{
