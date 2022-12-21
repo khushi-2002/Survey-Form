@@ -11,13 +11,14 @@ body{
     color: white;
 }
 
+
 #header{
     width: 100%;
     height: 100vh;
     background-image: url(images/bg.png);
-    background-size: cover;
-    background-position: center;
 }
+
+
 
 .container{
     padding: 30px 10%;
@@ -82,9 +83,25 @@ nav ul li a:hover::after{
 /* About section css */
 
 #about{
-    background-color: white;
-    padding: 80px 0;
     color: #810CA8;
+   
+    width: 100%;
+    min-height: 80vh;
+
+}
+
+#about .about-img{
+    position: absolute;
+    background: url(./images/bg-pic.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    width: 100%;
+    height: 80vh;
+    position: absolute;
+    z-index: -1;
+    opacity: 0.4;
+
 }
 
 .row{
@@ -104,7 +121,7 @@ nav ul li a:hover::after{
 
 .about-col-2{
     flex-basis: 50%;
-    color: black;
+    color: white;
 }
 
 
@@ -165,7 +182,8 @@ nav ul li a:hover::after{
 
 /* ----------------Services css------------------------ */
 #services{
-    padding: 50px 0;
+    
+    
 }
 
 .services-list{
@@ -222,7 +240,24 @@ nav ul li a:hover::after{
 
 #portfolio{
     padding: 50px 0;
-    background-color: white;
+   
+    width: 100% ;
+    height: 100vh;
+}
+#portfolio .container{
+    margin-bottom: -30px;
+}
+#portfolio .portfolio-img{
+    background: url(/images/pic5.jpg);
+    background-size: cover;
+   
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    width: 100%;
+    height: 100vh;
+    position: absolute;
+    z-index: -1;
+    opacity: 0.4;
 }
 
 .work-list{
@@ -313,7 +348,9 @@ transform: scale(1.1);
 }
 
 /* ----------------Contact page------------ */
-
+#contact{
+    padding-top: 70px;
+}
 .contact-left{
     flex-basis: 35%;
 }
@@ -391,7 +428,8 @@ nav .fas{
 
 @media only screen and (max-width: 600px){
     #header{
-        background-image: url(images/bg2.png);
+        background-image: url(/images/bg2.png);
+        background-size: cover;
     }
 
     .header-text{
@@ -431,7 +469,9 @@ nav .fas{
         left: 25px;
         cursor: pointer;
     }
-
+    #about{
+        background-size: cover;
+    }
     .about-header{
         font-size: 36px;
     }
@@ -461,3 +501,4 @@ nav .fas{
     margin-top: -30px;
     display: block;
 } 
+
