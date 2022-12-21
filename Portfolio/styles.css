@@ -241,7 +241,7 @@ nav ul li a:hover::after{
     margin-bottom: -30px;
 }
 #portfolio .portfolio-img{
-    background: url(../images/pic5.jpg);
+    background: url(./images/pic5.jpg);
     background-size: cover;   
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -340,9 +340,7 @@ transform: scale(1.1);
 }
 
 /* ----------------Contact page------------ */
-#contact{
-    
-}
+
 .contact-left{
     flex-basis: 35%;
 }
@@ -420,7 +418,7 @@ nav .fas{
 
 @media only screen and (max-width: 600px){
     #header{
-        background-image: url(/images/bg2.png);
+        background-image: url(./images/bg2.png);
         background-size: cover;
     }
 
