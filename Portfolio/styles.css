@@ -248,7 +248,7 @@ nav ul li a:hover::after{
     margin-bottom: -30px;
 }
 #portfolio .portfolio-img{
-    background: url(/images/pic5.jpg);
+    background: url(../images/pic5.jpg);
     background-size: cover;
    
     background-repeat: no-repeat;
