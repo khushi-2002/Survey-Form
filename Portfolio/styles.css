@@ -90,7 +90,7 @@ nav ul li a:hover::after{
 
 #about .about-img{
     position: absolute;
-    background: url(./images/bg-pic.jpg);
+    background: url(images/bg-pic.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -241,7 +241,7 @@ nav ul li a:hover::after{
     margin-bottom: -30px;
 }
 #portfolio .portfolio-img{
-    background: url(./images/pic5.jpg);
+    background: url(images/pic5.jpg);
     background-size: cover;   
     background-repeat: no-repeat;
     background-attachment: fixed;
