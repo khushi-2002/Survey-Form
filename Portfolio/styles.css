@@ -71,7 +71,28 @@ nav ul li a:hover::after{
 
 .header-text h1{
     margin-top: 10px;
-    font-size: 60px;
+    font-size: 30px;
+}
+
+.text-line{
+    font-size: 20px;
+}
+
+.header-text .text-effect{
+    font-family: 'poppins', sans-serif;
+    font-size: 100px;
+    color: transparent;
+    -webkit-text-stroke: 1px white;
+    background: url(images/back.png);
+    -webkit-background-clip: text;
+    background-position: 0 0;
+    animation: back 20s linear infinite;
+}
+
+@keyframes back {
+    100%{
+        background-position: 2000px 0;
+    }
 }
 
 .header-text h1 span{
@@ -98,7 +119,7 @@ nav ul li a:hover::after{
     height: 80vh;
     position: absolute;
     z-index: -1;
-    opacity: 0.5;
+    opacity: 0.3;
 
 }
 
@@ -122,6 +143,9 @@ nav ul li a:hover::after{
     color: white;
 }
 
+#about .row{
+   margin-top: 20px;
+}
 
 
 .about-header{
@@ -423,12 +447,12 @@ nav .fas{
     }
 
     .header-text{
-        margin-top: 100%;
+        margin-top: 80%;
         font-size: 16px;
     }
 
-    .header-text h1{
-        font-size: 30px;
+    .header-text .text-effect{
+        font-size: 60px;
     }
 
     nav .fas{
@@ -459,13 +483,20 @@ nav .fas{
         left: 25px;
         cursor: pointer;
     }
+    #header .text-effect{
+        font-size: 50px;
+    }
+    #header p{
+        font-size: 18px;
+    }
     #about{
         background-size: cover;
     }
     #about .about-img{
-        height: 140vh;
+        height: 150vh;
     }
     .about-header{
+    
         font-size: 36px;
     }
 
