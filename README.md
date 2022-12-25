@@ -26,3 +26,6 @@ Project preview:
 8. [Login-Signup page](https://khushi-2002.github.io/Web-development-Practice/Login/)
 
 9. [Portfolio](https://khushi-2002.github.io/Web-development-Practice/Portfolio/)
+
+10. [Cute-hub webiste](https://khushi-2002.github.io/Web-development-Practice/Cute-hubb-website-main)
+
