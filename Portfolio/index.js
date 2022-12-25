@@ -40,3 +40,19 @@ function closemenu(){
       })
       .catch(error => console.error('Error!', error.message))
   })
+
+text = document.querySelector(".sec-text")
+function textLoad () {
+        setTimeout(() => {
+            text.textContent = "FrontEnd Developer."
+        }, 0);
+        setTimeout(() => {
+            text.textContent = "Open Source euthusiast."
+        }, 4000);
+        setTimeout(() => {
+            text.textContent = "YouTuber."
+        }, 8000);
+    }
+
+    textLoad()
+    setInterval(textLoad, 12000)
