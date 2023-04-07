@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Kumbh Sans', sans-serif;
+}
+
+.container{
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.container .row{
+    display: flex;
+   
+}
+
+.container-col-1{
+    flex-basis: 40%;
+    margin-right: 100px;
+}
+
+.container-col-2{
+    flex-basis: 50%;
+}
+
+.container .image-women{
+    width: 100%;
+}
+
+.container .header-text
+{
+   margin-right: 20px;
+}
+.question{
+    width: 100%;
+    margin-bottom: 20px;
+    border-bottom: hsl(240, 5%, 91%);
+}
